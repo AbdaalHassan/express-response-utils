@@ -1,0 +1,12 @@
+{
+  "name": "express-response-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "AbdaalHassan",
+  "license": "ISC",
+  "description": "A simple npm package that provides common HTTP response helpers for Express.js."
+}
