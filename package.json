@@ -6,7 +6,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "AbdaalHassan",
+  "author": "abdaal-hassan",
   "license": "ISC",
   "description": "A simple npm package that provides common HTTP response helpers for Express.js."
 }
