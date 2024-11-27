@@ -5,8 +5,13 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "abdaal-hassan",
-  "license": "ISC",
+  "keywords": [
+    "http",
+    "express",
+    "node",
+    "javascript"
+  ],
+  "author": "Abdaal Hassan",
+  "license": "MIT",
   "description": "A simple npm package that provides common HTTP response helpers for Express.js."
 }
