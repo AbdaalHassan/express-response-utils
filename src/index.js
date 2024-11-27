@@ -1,6 +1,9 @@
-const { notFound, created } = require('./response')
+const { notFound, created, badRequest, serverError, ok } = require('./responses');
 
 module.exports = {
     notFound,
-    created
+    created,
+    badRequest,
+    serverError,
+    ok,
 };
